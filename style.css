@@ -1180,11 +1180,11 @@ body {
     width: 100%;
     height: 100%;
     box-shadow: 0.125vw 0.125vw 1vw rgba(243, 236, 45, 0.5), -0.125vw 0.125vw 1vw rgba(196, 210, 69, 0.5), 0.125vw -0.125vw 1vw rgba(81, 137, 251, 0.5), -0.125vw -0.125vw 1vw rgba(81, 137, 251, 0.5);
-    background-image: url("https://thumbs.gfycat.com/AmusedAggressiveFirecrest-size_restricted.gif");
+    background-image: url("https://thumbs.gfycat.com/GargantuanQueasyAmericancrayfish-max-1mb.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom;
-    opacity: 0.8;
+    opacity: 0.7;
 }
 
 .tv__left {
@@ -1767,43 +1767,46 @@ body {
 
 .cuadro-l__back,
 .cuadro-r__back {
-    background-color: #64a5ef;
-    box-shadow: 0.35vw 0.35vw 0.35vw rgba(81, 137, 251, 0.2), -0.35vw 0.35vw 0.35vw rgba(81, 137, 251, 0.2), -0.35vw -0.35vw 0.35vw rgba(81, 137, 251, 0.2), 0.35vw -0.35vw 0.35vw rgba(81, 137, 251, 0.2);
+    background-color: #098afb;
+    box-shadow: 0.35vw 0.35vw 0.35vw rgba(3, 114, 250, 0.2), -0.35vw 0.35vw 0.35vw rgba(7, 58, 244, 0.2), -0.35vw -0.35vw 0.35vw rgba(4, 54, 235, 0.2), 0.35vw -0.35vw 0.35vw rgba(2, 58, 241, 0.2);
 }
 
 .cuadro-l__right,
 .cuadro-r__right {
-    background-color: #a5a2b8;
+    background-color: #098afb;
 }
 
 .cuadro-l__left,
 .cuadro-r__left {
-    background-color: #3e8bde;
+    background-color: #098afb;
 }
 
 .cuadro-l__top,
 .cuadro-r__top {
-    background-color: #b9b5d5;
+    background-color: #098afb;
 }
 
 .cuadro-l__bottom,
 .cuadro-r__bottom {
-    background-color: #7aadef;
+    background-color: #098afb;
 }
 
 .cuadro-l__front {
-    background-image: url("https://scontent.fdad3-4.fna.fbcdn.net/v/t1.15752-9/278026328_686521275800896_748665889295230709_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=ae9488&_nc_ohc=81YhgsduNkIAX8aw5pm&_nc_ht=scontent.fdad3-4.fna&oh=03_AVIRSQnQuhJbIRKdXXIdpyuVORpE9XFmKYTJHOQaNNUb8g&oe=627B1A43");
+    background-image: url("anh1.jpg");
+    background-size: 100%;
+    background-color: #0464ff;
+    border: 0.1vw solid #0180ff;
 }
 
 .cuadro-l__front::before {
     content: "";
     position: absolute;
-    top: -1vw;
-    left: -1vw;
+    top: 0vw;
+    left: 0vw;
     width: 5vw;
     height: 7vw;
     background-origin: padding-box;
-    background-image: linear-gradient(to bottom, rgba(40, 125, 210, 0.15), rgba(40, 125, 210, 0.15));
+    background-image: linear-gradient(to bottom, rgba(7, 107, 247, 0.15), rgba(7, 75, 247, 0.15));
 }
 
 .cuadro-r {
@@ -1811,9 +1814,9 @@ body {
 }
 
 .cuadro-r__front {
-    background-image: url("https://scontent.fdad3-4.fna.fbcdn.net/v/t1.15752-9/277970390_3171806929805940_1161384094899977032_n.png?_nc_cat=105&ccb=1-5&_nc_sid=ae9488&_nc_ohc=kS-6W2f1NsAAX-ZDCw9&_nc_ht=scontent.fdad3-4.fna&oh=03_AVKmi_b6pjcgp1i2T1g_OdB3WbEeRXhAWgXK_-dFWxeDag&oe=627DB670");
-    background-color: #234d50;
-    border: 0.5vw solid #265080;
+    background-image: url("anh2.jpg");
+    background-color: #0464ff;
+    border: 0.4vw solid #0180ff;
 }
 
 .cuadro-r__front::before {
@@ -1824,7 +1827,7 @@ body {
     width: 5vw;
     height: 7vw;
     background-origin: padding-box;
-    background-image: linear-gradient(to bottom, rgba(40, 125, 210, 0.15), rgba(40, 125, 210, 0.15));
+    background-image: linear-gradient(to bottom, rgba(0, 128, 255, 0.15), rgba(255, 255, 255, 0.15));
 }
 
 .puerta-c {
